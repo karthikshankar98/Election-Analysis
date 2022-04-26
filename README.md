@@ -1,6 +1,6 @@
 # Election Analysis and Prediction
 
-Data Source (Election Commission of India) - https://eci.gov.in/files/category/97-general-election-2014/
+Data Sources (Election Commission of India) - https://eci.gov.in/files/category/97-general-election-2014/
                                              https://eci.gov.in/files/file/3877-delhi-2013/
                                              https://eci.gov.in/past-elections-statistics/
 
